@@ -1,0 +1,14 @@
+a simple manhwa app that will be hostable on github 
+
+here are the requrements 
+
+platform - all platform, form mobile device to big screen tv so make sure to make the website responsive
+
+interface design - basic minimal modern design nothing crazy, oled black as main and deep red as accent colour 
+
+ui design - basic ui design - homepage - manhwas will be stored as tiles and the aspect ratio o the tiles will be 2:3 and this aspect ratio will be applied on all devices, when clicked on a tile it will open a new page where the manhwa will be readable, reading page - reading page will be simple as well on the top there will be a header that will display the website name and when clicked on the name it will take back to homepage. for the bottom bar or the footer it will be a button on the bottom of the page there will be a dropdown button that will show all the chapters and when clicked on the chapter it will open that chapter
+
+functionality - the source of content or you can say the manhwa chapters will be stored on google drive as pdf files 
+and they will be added to the website by this syntax - ( { number: 1, title: "Title Name", driveId: "Drive ID" }, ) 
+
+files - make separate files so it will be easy to edit and make sure to make a separate files for the manhwas, means there will be a separate file where the manhwa details and all other things of the manhwas will be stored. if the dev wants to change anything about the manhwa or add a new manhwa it will be all there in that file.
